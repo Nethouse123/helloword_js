@@ -1,7 +1,7 @@
 # helloword_for js
 ## function helloWorld() {
-    return 'Hello world!';
-    }
+##    return 'Hello world!';
+##   }
     
     
  
